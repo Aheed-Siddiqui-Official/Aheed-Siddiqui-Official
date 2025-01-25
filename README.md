@@ -2,7 +2,9 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20Muhammad%20Aheed%20‍💻&desc=JavaScript%20Developer%20|%20Crafting%20Responsive%20Web%20Interfaces&descAlign=50&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
 
-[![GitHub WidgetBox]([https://github-widgetbox.vercel.app/api/profile?username=Ahmed-Abbasi-Official&data=followers,repositories,stars,commits&theme=darkmode&hide_border=true)](https://github.com/Ahmed-Abbasi-Official/](https://github.com/MuhammadAheedSiddiqui29))
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MuhammadAheedSiddiqui29&data=followers,repositories,commits&theme=darkmode&hide_border=true&font=Roboto)](https://github.com/MuhammadAheedSiddiqui29)
+
+
 
 </div>
 
@@ -14,12 +16,12 @@
 
 - 📫 How to reach me **maheedsiddiqui29@gmail.com**
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Abbasi-Official&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadAheedSiddiqui29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadAheedSiddiqui29&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadAheedSiddiqui29" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Abbasi-Official&show_icons=true&locale=en&layout=compact" alt="MuhammadAheedSiddiqui29" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAheedSiddiqui29&show_icons=true&locale=en&layout=compact" alt="MuhammadAheedSiddiqui29" /></p>
 
-![Muhammad Aheed Siddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abbasi-Official&show_icons=true&bg_color=00000000)
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ahmed-Abbasi-Official&theme=dark&background=000000"/></p>
+![Muhammad Aheed Siddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAheedSiddiqui29&show_icons=true&bg_color=00000000)
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MuhammadAheedSiddiqui29&theme=dark&background=000000"/></p>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAheedSiddiqui29&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
