@@ -40,6 +40,6 @@
 
 <a href="https://www.linkedin.com/in/muhammad-aheed-siddiqui-b1233a2a2/" title="Muhammad Aheed Siddiqui" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 
-<div align="center">
+
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=9&descAlign=47&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33&section=footer)
-</div>
+
