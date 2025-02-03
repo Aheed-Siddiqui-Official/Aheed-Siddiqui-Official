@@ -34,7 +34,7 @@
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="CPP" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="C" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="JAVA" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="C" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=all" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="C" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git,c" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Git" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Git Hub" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
