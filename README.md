@@ -10,9 +10,9 @@
 
 <h1>About:</h1>
 
-- 🌱 I’m currently learning **Frontend Development with JavaScript.**
+- 🌱 I’m currently learning **Frontend Development with JavaScript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, Git, GitHub.**
+- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, Git, GitHub and more.**
 
 - 📫 How to reach me **maheedsiddiqui29@gmail.com**
   
