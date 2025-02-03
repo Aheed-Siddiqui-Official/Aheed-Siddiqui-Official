@@ -42,6 +42,7 @@
 <h3>Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/muhammad-aheed-siddiqui-b1233a2a2/" title="Muhammad Aheed Siddiqui" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Gmail" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=9&descAlign=47&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33&section=footer)
