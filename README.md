@@ -18,8 +18,6 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadAheedSiddiqui29&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadAheedSiddiqui29" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAheedSiddiqui29&layout=compact"/></p>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAheedSiddiqui29&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ![Muhammad Aheed Siddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAheedSiddiqui29&show_icons=true&bg_color=00000000)
