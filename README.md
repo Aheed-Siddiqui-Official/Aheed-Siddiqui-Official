@@ -26,6 +26,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAheedSiddiqui29&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAheedSiddiqui29&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Languages And Tools:
 
 <a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
