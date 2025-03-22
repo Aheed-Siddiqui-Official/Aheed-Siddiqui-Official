@@ -18,13 +18,11 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadAheedSiddiqui29&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadAheedSiddiqui29" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAheedSiddiqui29&show_icons=true&locale=en&layout=compact"/></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAheedSiddiqui29&layout=compact"/></p>
 
 ![Muhammad Aheed Siddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAheedSiddiqui29&show_icons=true&bg_color=00000000)
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MuhammadAheedSiddiqui29&theme=dark&background=000000"/></p>
 
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MuhammadAheedSiddiqui29&theme=dark&background=000000"/></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAheedSiddiqui29&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
