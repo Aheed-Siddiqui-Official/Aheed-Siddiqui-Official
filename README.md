@@ -20,7 +20,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAheedSiddiqui29&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa-khan-official&show_icons=true&locale=en&layout=compact" alt="huzaifa-khan-official" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAheedSiddiqui29&show_icons=true&locale=en&layout=compact" alt="MuhammadAheedSiddiqui29" /></p>
 
 ![Muhammad Aheed Siddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAheedSiddiqui29&show_icons=true&bg_color=00000000)
 
