@@ -31,6 +31,7 @@
 <a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="BOOTSTRAP" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="BOOTSTRAP" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="CPP" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="C" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="JAVA" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
