@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Frontend Development with JavaScript**
 
-
+- 💬 Ask me about **HTML📄, CSS 🎨, BootStrap 🧰, JavaScript ⚡, Vite 🔥, DSA 🧠, Git 🔀, GitHub 🐙, and more.**
 
 - 📫 How to reach me **maheedsiddiqui29@gmail.com**
   
