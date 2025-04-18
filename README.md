@@ -13,8 +13,6 @@
 - 💬 Ask me about **HTML📄, CSS 🎨, BootStrap 🧰, JavaScript ⚡, Vite 🔥, DSA 🧠, Git 🔀, GitHub 🐙, and more.**
 
 - 📫 How to reach me **maheedsiddiqui29@gmail.com**
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aheed-Siddiqui-Official&label=Profile%20views&color=0e75b6&style=flat"alt="Aheed-Siddiqui-Official"/> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aheed-Siddiqui-Official&show_icons=true&locale=en&layout=compact"alt="Aheed-Siddiqui-Official"/></p>
 
