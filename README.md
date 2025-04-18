@@ -2,7 +2,7 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20Muhammad%20Aheed%20‍💻&desc=Frontend%20Developer%20|%20Crafting%20Responsive%20Web%20Interfaces&descAlign=50&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Aheed-Siddiqui-Official&data=followers,repositories,commits&theme=darkmode&hide_border=true&font=Roboto)](https://github.com/MuhammadAheedSiddiqui29)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Aheed-Siddiqui-Official&data=followers,repositories,commits&theme=darkmode&hide_border=true&font=Roboto)](https://github.com/Aheed-Siddiqui-Official)
 
 </div>
 
@@ -14,15 +14,15 @@
 
 - 📫 How to reach me **maheedsiddiqui29@gmail.com**
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadAheedSiddiqui29&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadAheedSiddiqui29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aheed-Siddiqui-Official&label=Profile%20views&color=0e75b6&style=flat"alt="Aheed-Siddiqui-Official"/> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAheedSiddiqui29&show_icons=true&locale=en&layout=compact" alt="MuhammadAheedSiddiqui29" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aheed-Siddiqui-Official&show_icons=true&locale=en&layout=compact"alt="Aheed-Siddiqui-Official"/></p>
 
-![Muhammad Aheed Siddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAheedSiddiqui29&show_icons=true&bg_color=00000000)
+![Muhammad Aheed Siddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=Aheed-Siddiqui-Official&show_icons=true&bg_color=00000000)
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MuhammadAheedSiddiqui29&theme=dark&background=000000"/></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Aheed-Siddiqui-Official&theme=dark&background=000000"/></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAheedSiddiqui29&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aheed-Siddiqui-Official&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages And Tools:
 
