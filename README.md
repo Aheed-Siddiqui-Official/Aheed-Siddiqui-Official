@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **maheedsiddiqui29@gmail.com**
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aheed-Siddiqui-Official&show_icons=true&locale=en&layout=compact" alt="Aheed-Siddiqui-Official" /></p>
 
 ![Muhammad Aheed Siddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=Aheed-Siddiqui-Official&show_icons=true&bg_color=00000000)
 
