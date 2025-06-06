@@ -16,10 +16,6 @@
 
 ![Muhammad Aheed Siddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=Aheed-Siddiqui-Official&show_icons=true&bg_color=00000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aheed-Siddiqui-Official&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aheed-Siddiqui-Official&layout=compact)
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aheed-Siddiqui-Official&show_icons=true&locale=en&layout=compact" alt="Aheed-Siddiqui-Official" /></p>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Aheed-Siddiqui-Official&theme=dark&background=000000"/></p>
