@@ -20,6 +20,8 @@
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Aheed-Siddiqui-Official&theme=dark&background=000000"/></p>
 
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Aheed-Siddiqui-Official&theme=dark&background=000000"/></p>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aheed-Siddiqui-Official&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages And Tools:
