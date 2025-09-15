@@ -2,7 +2,7 @@
 
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Aheed-Siddiqui-Official&data=followers,repositories,commits&theme=darkmode&hide_border=true&font=Roboto)](https://github.com/Aheed-Siddiqui-Official)
+
 
 </div>
 
