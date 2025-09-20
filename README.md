@@ -8,7 +8,7 @@
 
 <h1>About:</h1>
 
-- 🌱 I’m currently learning **Frontend Development with JavaScript**
+- 🌱 I’m currently learning **MERN Stack Web Development**
 
 - 💬 Ask me about **HTML📄, CSS 🎨, BootStrap 🧰, JavaScript ⚡, React ⚛️,  Vite 🔥, DSA 🧠, Git 🔀, GitHub 🐙, and more.**
 
