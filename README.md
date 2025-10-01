@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
-- 💬 Ask me about **HTML📄, CSS 🎨, BootStrap 🧰, JavaScript ⚡, React ⚛️,  Vite 🔥, DSA 🧠, Git 🔀, GitHub 🐙, and more.**
+- 💬 Ask me about **HTML 📄, CSS 🎨, Tailwind 🌊, Bootstrap 🧰, JavaScript ⚡, React ⚛️, Vite 🔥, Express 🚂, Node.js 🌐, MongoDB 🍃, DSA 🧠, Git 🔀, GitHub 🐙, and more.**
 
 - 📫 How to reach me **maheedsiddiqui29@gmail.com**
 
