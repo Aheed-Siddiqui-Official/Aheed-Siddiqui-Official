@@ -8,7 +8,7 @@
 
 <h1>About:</h1>
 
-- 🌱 I’m currently learning **MERN Stack Web Development**
+- 🌱 I’m currently learning **backend in MERN Stack Web Development**
 
 - 💬 Ask me about **HTML 📄, CSS 🎨, Tailwind 🌊, Bootstrap 🧰, JavaScript ⚡, React ⚛️, Vite 🔥, Express 🚂, Node.js 🌐, MongoDB 🍃, DSA 🧠, Git 🔀, GitHub 🐙, and more.**
 
