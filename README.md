@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20M.Aheed%20Siddiqui%20‍💻&desc=Frontend%20Developer%20|%20Crafting%20Responsive%20Web%20Interfaces&descAlign=50&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20M.Aheed%20Siddiqui%20‍💻&desc=MERN%20Stack%20Developer%20|%20Crafting%20Responsive%20Web%20Interfaces&descAlign=50&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Aheed-Siddiqui-Official&data=followers,repositories,commits&theme=darkmode&hide_border=true&font=Roboto)](https://github.com/Aheed-Siddiqui-Official)
 
@@ -9,7 +9,7 @@
 
 <h1>About:</h1>
 
-- 🌱 I’m currently learning **backend in MERN Stack Web Development**
+- 🌱 I’m currently building projects **in MERN Stack Web Development**
 
 - 💬 Ask me about **HTML 📄, CSS 🎨, Tailwind 🌊, Bootstrap 🧰, JavaScript ⚡, React ⚛️, Vite 🔥, Express 🚂, Node.js 🌐, MongoDB 🍃, DSA 🧠, Git 🔀, GitHub 🐙, and more.**
 
