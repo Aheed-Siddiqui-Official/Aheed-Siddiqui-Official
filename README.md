@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently building projects **in MERN Stack Web Development**
 
-- 💬 Ask me about **HTML 📄, CSS 🎨, Tailwind 🌊, Bootstrap 🧰, JavaScript ⚡, React ⚛️, Vite 🔥, Express 🚂, Node.js 🌐, MongoDB 🍃, DSA 🧠, Git 🔀, GitHub 🐙, and more.**
+- 💬 Ask me about **HTML 📄, CSS 🎨, Tailwind 🌊, Bootstrap 🧰, JavaScript ⚡, React ⚛️, Vite 🔥, Express 🚂, Node.js 🌐, MongoDB 🍃, SQL 🗄️, PostgreSQL 🐘, Neon ⚡🟩, Prisma 🧩, Clerk 🔑, JWT 🔐, REST APIs 🚀, Socket.io 🔌, Firebase 🔥, Postman 📮, Git 🔀, GitHub 🐙, Cloudinary ☁️🖼️, ImageKit 📸⚡and more.**
 
 - 📫 How to reach me **maheedsiddiqui29@gmail.com**
 
