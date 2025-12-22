@@ -12,7 +12,10 @@
 
 - 💬 Ask me about **HTML 📄, CSS 🎨, Tailwind 🌊, Bootstrap 🧰, JavaScript ⚡, React ⚛️, Vite 🔥, Express 🚂, Node.js 🌐, MongoDB 🍃, SQL 🗄️, PostgreSQL 🐘, Neon ⚡🟩, Prisma 🧩, Clerk 🔑, JWT 🔐, REST APIs 🚀, Socket.io 🔌, Firebase 🔥, Postman 📮, Git 🔀, GitHub 🐙, Cloudinary ☁️🖼️, ImageKit 📸⚡and more.**
 
-- 📫 How to reach me **maheedsiddiqui29@gmail.com**
+- 📫 How to reach me
+**Portfolio:** https://mas-portfolio.vercel.app/
+
+ **maheedsiddiqui29@gmail.com**
 
 ![Muhammad Aheed Siddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=Aheed-Siddiqui-Official&show_icons=true&bg_color=00000000)
 
