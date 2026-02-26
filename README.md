@@ -8,9 +8,9 @@
 
 <h1>About:</h1>
 
-- 🌱 I’m currently building projects **in MERN Stack Web Development**
+- 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **HTML 📄, CSS 🎨, Tailwind 🌊, Bootstrap 🧰, JavaScript ⚡, React ⚛️, Vite 🔥, Express 🚂, Node.js 🌐, MongoDB 🍃, SQL 🗄️, PostgreSQL 🐘, Neon ⚡, Clerk 🔑, JWT 🔐, REST APIs 🚀, Socket.io 🔌, Firebase 🔥, Postman 📮, Git 🔀, GitHub 🐙, Cloudinary ☁️🖼️, ImageKit 📸⚡and more.**
+- 💬 Ask me about **HTML 📄, CSS 🎨, Tailwind 🌊, Bootstrap 🧰, JavaScript ⚡, React ⚛️, NextJs⚡, Vite 🔥, Express 🚂, Node.js 🌐, MongoDB 🍃, SQL 🗄️, PostgreSQL 🐘, Neon ⚡, Clerk 🔑, JWT 🔐, REST APIs 🚀, Socket.io 🔌, Firebase 🔥, Postman 📮, Git 🔀, GitHub 🐙, Cloudinary ☁️🖼️, ImageKit 📸 and more.**
 
 - 📫 **Reach Me:** https://mas-portfolio.vercel.app/
 
@@ -30,6 +30,7 @@
 <a href="" title="TAILWIND" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="TAILWIND" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="REACT" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="REACT" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="NextJs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="EXPRESS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="EXPRESS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="MONGODB" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MONGODB" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="NODEJS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="NODEJS" width="30" height="30"/></a>&nbsp;&nbsp;
