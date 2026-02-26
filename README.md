@@ -8,7 +8,7 @@
 
 <h1>About:</h1>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs and Typescript.**
 
 - 💬 Ask me about **HTML 📄, CSS 🎨, Tailwind 🌊, Bootstrap 🧰, JavaScript ⚡, React ⚛️, NextJs⚡, Vite 🔥, Express 🚂, Node.js 🌐, MongoDB 🍃, SQL 🗄️, PostgreSQL 🐘, Neon ⚡, Clerk 🔑, JWT 🔐, REST APIs 🚀, Socket.io 🔌, Firebase 🔥, Postman 📮, Git 🔀, GitHub 🐙, Cloudinary ☁️🖼️, ImageKit 📸 and more.**
 
