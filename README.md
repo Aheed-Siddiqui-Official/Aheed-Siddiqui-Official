@@ -34,6 +34,7 @@
 <a href="" title="EXPRESS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="EXPRESS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="MONGODB" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MONGODB" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="NODEJS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="NODEJS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Python" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="CPP" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="C++" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="JAVA" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="JAVA" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="C" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" width="30" height="30"/></a>&nbsp;&nbsp;
