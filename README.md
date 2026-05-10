@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20M.Aheed%20Siddiqui%20‍💻&desc=MERN%20Stack%20Developer%20|%20Crafting%20Responsive%20Web%20Interfaces&descAlign=50&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20M.Aheed%20Siddiqui%20‍💻&desc=Full%20Stack%20Developer%20|%20Crafting%20Responsive%20Web%20Interfaces&descAlign=50&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Aheed-Siddiqui-Official&data=followers,repositories,commits&theme=darkmode&hide_border=true&font=Roboto)](https://github.com/Aheed-Siddiqui-Official)
 
@@ -24,10 +24,6 @@
 **Git 🔀 • GitHub 🐙 • Postman 📮 • JWT 🔐 • Clerk 🔑 • REST APIs 🚀 • Socket.io 🔌 • Firebase 🔥 • Cloudinary ☁️🖼️ • ImageKit 📸** and more...
 
 - 📫 **Reach Me:** https://mas-portfolio.vercel.app/
-
-![Muhammad Aheed Siddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=Aheed-Siddiqui-Official&show_icons=true&bg_color=00000000)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aheed-Siddiqui-Official&show_icons=true&locale=en&layout=compact" alt="Aheed-Siddiqui-Official" /></p>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Aheed-Siddiqui-Official&theme=dark&background=000000"/></p>
 
