@@ -6,11 +6,22 @@
 
 </div>
 
-<h1>About:</h1>
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **NextJs and Typescript.**
+- 🌱 **I’m currently learning** **Artificial Intelligence**, **Machine Learning** & **Deep Learning**
+- 💬 **Ask me about** anything related to:
 
-- 💬 Ask me about **HTML 📄, CSS 🎨, Tailwind 🌊, Bootstrap 🧰, JavaScript ⚡, React ⚛️, NextJs⚡, Vite 🔥, Express 🚂, Node.js 🌐, MongoDB 🍃, SQL 🗄️, PostgreSQL 🐘, Neon ⚡, Clerk 🔑, JWT 🔐, REST APIs 🚀, Socket.io 🔌, Firebase 🔥, Postman 📮, Git 🔀, GitHub 🐙, Cloudinary ☁️🖼️, ImageKit 📸 and more.**
+**Frontend:**  
+**HTML 📄 • CSS 🎨 • Tailwind 🌊 • Bootstrap 🧰 • JavaScript ⚡ • React ⚛️ • Next.js 🚀 • Vite 🔥**
+
+**Backend & Databases:**  
+**Node.js 🌐 • Express 🚂 • MongoDB 🍃 • SQL 🗄️ • PostgreSQL 🐘 • Neon ⚡**
+
+**AI | ML | DL:**  
+**Python 🐍 • Jupyter 📓 • Pandas 🐼 • NumPy 🔢 • Scikit-learn 🧠 • TensorFlow 🟠 • PyTorch 🔥 • NLP 🔤 • Deep Learning 🧬**
+
+**Tools & Others:**  
+**Git 🔀 • GitHub 🐙 • Postman 📮 • JWT 🔐 • Clerk 🔑 • REST APIs 🚀 • Socket.io 🔌 • Firebase 🔥 • Cloudinary ☁️🖼️ • ImageKit 📸** and more...
 
 - 📫 **Reach Me:** https://mas-portfolio.vercel.app/
 
@@ -32,8 +43,9 @@
 
 <h3>Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/muhammad-aheed-siddiqui-b1233a2a2/" title="Muhammad Aheed Siddiqui" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Gmail" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-aheed-siddiqui-b1233a2a2/" title="Muhammad Aheed Siddiqui" target="_blank" rel="noreferrer">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>&nbsp;&nbsp;
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=9&descAlign=47&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33&section=footer)
